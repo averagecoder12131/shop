@@ -13,6 +13,6 @@ public class Main {
         }
 
 
-        System.out.println("Devil");
+        System.out.println("ICH");
     }
 }
